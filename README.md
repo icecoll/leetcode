@@ -9,3 +9,4 @@
 - [basic-calculator-ii](https://github.com/icecoll/leetcode/blob/main/basic-calculator-ii/README.md)
 - [spiral-matrix](https://github.com/icecoll/leetcode/blob/main/spiral-matrix/README.md)
 - [remove-duplicates-from-sorted-list-ii](https://github.com/icecoll/leetcode/blob/main/remove-duplicates-from-sorted-list-ii/README.md)
+- [rotate-list](https://github.com/icecoll/leetcode/blob/main/rotate-list/README.md)
