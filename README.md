@@ -13,3 +13,4 @@
 - [remove-duplicates-from-sorted-list-ii](https://github.com/icecoll/leetcode/blob/main/remove-duplicates-from-sorted-list-ii/README.md)
 - [rotate-list](https://github.com/icecoll/leetcode/blob/main/rotate-list/README.md)
 - [binary-search-tree-iterator](https://github.com/icecoll/leetcode/blob/main/binary-search-tree-iterator/README.md)
+- [search_matrix](https://github.com/icecoll/leetcode/blob/main/search_matrix/README.md)
