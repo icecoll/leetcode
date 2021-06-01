@@ -15,3 +15,6 @@
 - [binary-search-tree-iterator](https://github.com/icecoll/leetcode/blob/main/binary-search-tree-iterator/)
 - [search_matrix](https://github.com/icecoll/leetcode/blob/main/search_matrix/)
 - [clumsy-factorial](https://github.com/icecoll/leetcode/blob/main/clumsy-factorial/)
+
+### 困难
+- [volume-of-histogram-lcci](https://github.com/icecoll/leetcode/blob/main/volume-of-histogram-lcci/)
