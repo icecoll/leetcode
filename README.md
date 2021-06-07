@@ -15,6 +15,7 @@
 - [binary-search-tree-iterator](https://github.com/icecoll/leetcode/blob/main/binary-search-tree-iterator/)
 - [search_matrix](https://github.com/icecoll/leetcode/blob/main/search_matrix/)
 - [clumsy-factorial](https://github.com/icecoll/leetcode/blob/main/clumsy-factorial/)
+- [can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/icecoll/leetcode/blob/main/can-you-eat-your-favorite-candy-on-your-favorite-day/)
 
 ### 困难
 - [volume-of-histogram-lcci](https://github.com/icecoll/leetcode/blob/main/volume-of-histogram-lcci/)
