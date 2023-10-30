@@ -6,6 +6,7 @@
 - [two-sum](https://github.com/icecoll/leetcode/blob/main/two-sum/)
 - [reverse-integer](https://github.com/icecoll/leetcode/blob/main/reverse-integer/)
 - [reverse_bits](https://github.com/icecoll/leetcode/blob/main/reverse_bits/)
+- [remove-duplicates-from-sorted-array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
 
 ### 中等
 - [basic-calculator-ii](https://github.com/icecoll/leetcode/blob/main/basic-calculator-ii/)
