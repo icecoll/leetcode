@@ -19,6 +19,7 @@
 - [can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/icecoll/leetcode/blob/main/can-you-eat-your-favorite-candy-on-your-favorite-day/)
 - [all-paths-from-source-to-target](https://github.com/icecoll/leetcode/blob/main/all-paths-from-source-to-target/) #递归 #深度优先搜索
 - [boats-to-save-people](https://github.com/icecoll/leetcode/blob/main/boats-to-save-people/) #贪心算法
+- [add-two-numbers](https://github.com/icecoll/leetcode/blob/main/add-two-numbers/)
 
 ### 困难
 - [volume-of-histogram-lcci](https://github.com/icecoll/leetcode/blob/main/volume-of-histogram-lcci/)
